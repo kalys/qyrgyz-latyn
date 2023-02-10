@@ -16,9 +16,9 @@ TBA
 Ukulele menen `macos/Qyrgyz.bundle` fajlyn açyp, kerektüü özgörüülördü qylğyla.
 
 ## Paket jasoo
-Packages ti koldonuu astynda bul qomandany arqarğyla
+Packages ti koldonuu astynda bul komandany arqarğyla
 
     sudo launchctl load /Library/LaunchDaemons/fr.whitebox.packages.build.dispatcher.plist
 
-Packages arqyluu `macos/Qyrgyz.pkgproj` fajlyn açyp, menjudan Build -> Build ti atqarğyla.
+**Packages** arqyluu `macos/Qyrgyz.pkgproj` fajlyn açyp, menjudan Build -> Build ti atqarğyla.
 `macos/build` tin içinde paket fajl pajda bolot.
