@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>org.sil.ukelele.keyboardlayout.qyrgyzpro</string>
+	<key>CFBundleName</key>
+	<string>Qyrgyz</string>
+	<key>CFBundleVersion</key>
+	<string>0.0.1</string>
+	<key>KLInfo_Qyrgyz 30</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.qyrgyzpro.qyrgyz30</string>
+		<key>TISIntendedLanguage</key>
+		<string>ky-KG</string>
+	</dict>
+	<key>KLInfo_Qyrgyz Pro</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.qyrgyzpro.qyrgyzpro</string>
+		<key>TISIntendedLanguage</key>
+		<string>ky-KG</string>
+	</dict>
+</dict>
+</plist>
