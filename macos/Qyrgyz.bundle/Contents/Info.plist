@@ -7,7 +7,18 @@
 	<key>CFBundleName</key>
 	<string>Qyrgyz</string>
 	<key>CFBundleVersion</key>
-	<string>0.0.1</string>
+	<string>0.0.2</string>
+	<key>KLInfo_Qyrgyz</key>
+	<dict>
+		<key>TICapsLockLanguageSwitchCapable</key>
+		<false/>
+		<key>TISIconIsTemplate</key>
+		<false/>
+		<key>TISInputSourceID</key>
+		<string>org.sil.ukelele.keyboardlayout.qyrgyzpro.qyrgyz</string>
+		<key>TISIntendedLanguage</key>
+		<string>ky-KG</string>
+	</dict>
 	<key>KLInfo_Qyrgyz 30</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
@@ -16,17 +27,6 @@
 		<false/>
 		<key>TISInputSourceID</key>
 		<string>org.sil.ukelele.keyboardlayout.qyrgyzpro.qyrgyz30</string>
-		<key>TISIntendedLanguage</key>
-		<string>ky-KG</string>
-	</dict>
-	<key>KLInfo_Qyrgyz Pro</key>
-	<dict>
-		<key>TICapsLockLanguageSwitchCapable</key>
-		<false/>
-		<key>TISIconIsTemplate</key>
-		<false/>
-		<key>TISInputSourceID</key>
-		<string>org.sil.ukelele.keyboardlayout.qyrgyzpro.qyrgyzpro</string>
 		<key>TISIntendedLanguage</key>
 		<string>ky-KG</string>
 	</dict>
