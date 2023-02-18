@@ -20,6 +20,19 @@ Repozitorijdi aluu
 
     git clone https://github.com/kalys/qyrgyz-latyn.git
 
+## Windows
+
+### Köz qarandylyqtar
+
+- [Microsoft Keyboard Layout Creator (MSKLC)](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
+- Microsoft .NET Framework 3.5
+
+MSKLC arqyluu `windows/qyrgyz.klc` ce `windows/qyrgyz30.klc` fajldaryn açyp, tergiçti özgörtsö bolot.
+
+### Paket jasoo
+
+MSKLCnin ornotuu paketin jasooğo cöndömdülügü bar
+
 ## macOS
 
 ### Köz qarandylyqtar
