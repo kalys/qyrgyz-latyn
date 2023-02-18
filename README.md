@@ -1,31 +1,34 @@
 <img width="739" alt="Screenshot 2023-02-12 at 22 48 09" src="https://user-images.githubusercontent.com/155511/218324694-bb37d9a4-d395-420a-a5d8-fee45f2d0c28.png">
 
+# Ornotuu
 
+## Windows
 
-# macOS
+1. Bul [baraqa](https://github.com/kalys/qyrgyz-latyn/releases/tag/v0.0.3) ötüñüz
+2. **Qyrgyz.win.zip** ce **Qyrgyz30.win.zip** (1928-çi cyldyq versjasy) fajlyn cüktöp alyñyz
+3. **setup.exe** ni iştetip, tergiçti sistemağa ornotuñuz
+4. Cañy tergiçti Windows tun kontrol panelinen koşup alyñyz
 
-## Cüktöp aluu
+## macOS
 
-TBA
-
-## Köz qarandylyqtar
-- [Ukulele](https://software.sil.org/ukelele/)
-- [Packages](http://s.sudre.free.fr/Software/Packages/about.html)
-
-## Ornotuu
-
-Bul [baraqtan](https://github.com/kalys/qyrgyz-latyn/releases/tag/v0.0.2) cüktöp, paketti ornotup,
+Bul [baraqtan](https://github.com/kalys/qyrgyz-latyn/releases/tag/v0.0.3) **Qyrgyz.pkg** fajlyn cüktöp, paketti ornotup,
 sistemağa `Qyrgyz` ce `Qyrgyz 30` tergiçti qoşuñuz.
 
-## Tergiçti özgörtüü
+# Tergiçti özgörtüü
 
 Repozitorijdi aluu
 
     git clone https://github.com/kalys/qyrgyz-latyn.git
 
+## macOS
+
+### Köz qarandylyqtar
+- [Ukulele](https://software.sil.org/ukelele/)
+- [Packages](http://s.sudre.free.fr/Software/Packages/about.html)
+
 Ukulele menen `macos/Qyrgyz.bundle` fajlyn açyp, kerektüü özgörüülördü qylğyla.
 
-## Paket jasoo
+### Paket jasoo
 Packages ti koldonuu astynda bul komandany arqarğyla
 
     sudo launchctl load /Library/LaunchDaemons/fr.whitebox.packages.build.dispatcher.plist
